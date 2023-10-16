@@ -1,0 +1,14 @@
+C:\VSCodeCS\Snake\bin\Debug\net7.0\Snake.exe
+C:\VSCodeCS\Snake\bin\Debug\net7.0\Snake.deps.json
+C:\VSCodeCS\Snake\bin\Debug\net7.0\Snake.runtimeconfig.json
+C:\VSCodeCS\Snake\bin\Debug\net7.0\Snake.dll
+C:\VSCodeCS\Snake\bin\Debug\net7.0\Snake.pdb
+C:\VSCodeCS\Snake\obj\Debug\net7.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCodeCS\Snake\obj\Debug\net7.0\Snake.AssemblyInfoInputs.cache
+C:\VSCodeCS\Snake\obj\Debug\net7.0\Snake.AssemblyInfo.cs
+C:\VSCodeCS\Snake\obj\Debug\net7.0\Snake.csproj.CoreCompileInputs.cache
+C:\VSCodeCS\Snake\obj\Debug\net7.0\Snake.dll
+C:\VSCodeCS\Snake\obj\Debug\net7.0\refint\Snake.dll
+C:\VSCodeCS\Snake\obj\Debug\net7.0\Snake.pdb
+C:\VSCodeCS\Snake\obj\Debug\net7.0\Snake.genruntimeconfig.cache
+C:\VSCodeCS\Snake\obj\Debug\net7.0\ref\Snake.dll
